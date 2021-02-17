@@ -8,3 +8,7 @@
 position = 1
 
 print(f'My world tour position is {position}!!!')
+
+class_list = ['Aiste', 'Dovydas', 'Nojus', 'Kajus', 'Karolina']
+
+print(class_list[0])
