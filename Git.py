@@ -5,7 +5,7 @@
 
 #why the hell would i need to fetch then???
 
-position = 1
+'''position = 1
 
 print(f'My world tour position is {position}!!!')
 
@@ -14,4 +14,4 @@ class_list = ['Aiste', 'Dovydas', 'Nojus', 'Kajus', 'Karolina']
 print(class_list[0])
 
 
-<p> I can also write some html </p>
+<p> I can also write some html </p>'''
